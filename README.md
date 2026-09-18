@@ -1,5 +1,9 @@
 # EdTech-Market-Dashboard
 Interactive EdTech Market Analysis Dashboard Using Power BI
+
+!Dashboard Preview 
+! [ EdTech Market Dashboard]
+(Screenshot 2026-09-19 000922.png)
 ### Tools Used
 - Power Bi
 - Excel 
